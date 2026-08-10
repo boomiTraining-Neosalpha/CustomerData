@@ -6,4 +6,3 @@ Importing Data from Master Data hub of Boomi
 3. Create the Github Repository.
 4. Create the ReadME file
 5. Name the Repository to CustomerData
-6. 
